@@ -3,6 +3,7 @@
     <img src="https://github.com/shervinbdndev/CryptoCurrencyApp/blob/master/src/images/logo.png" alt="Logo" width="180">
   </a>
   <h1 align='center' style="font-size:5rem"><b>CryptoCurrency Application</b></h1>
+  <h4 align='center' style="font-size:5rem"><i>Written With Python 3.10.5</i></h4>
 
 Operating System  |  Version  |  Download
 ------------- | ------------- | -------------
